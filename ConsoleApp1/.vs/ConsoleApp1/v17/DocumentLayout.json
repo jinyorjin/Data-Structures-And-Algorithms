@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACF1329-064A-4463-830B-0A5BF9BB295D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lqye9\\onedrive\\desktop\\deakin\\2025.t1\\2025.t1sit221 - data structures and algorithms\\1.1p\\consoleapp1\\consoleapp1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1ACF1329-064A-4463-830B-0A5BF9BB295D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACF1329-064A-4463-830B-0A5BF9BB295D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lqye9\\onedrive\\desktop\\deakin\\2025.t1\\2025.t1sit221 - data structures and algorithms\\1.1p\\consoleapp1\\consoleapp1\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACF1329-064A-4463-830B-0A5BF9BB295D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\.gitignore",
+              "RelativeDocumentMoniker": "ConsoleApp1\\.gitignore",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\.gitignore",
+              "RelativeToolTip": "ConsoleApp1\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-08T03:09:06.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\Vector.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Vector.cs",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\Vector.cs",
+              "RelativeToolTip": "ConsoleApp1\\Vector.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAiwKAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:18:58.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

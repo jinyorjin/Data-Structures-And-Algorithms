@@ -1,0 +1,3 @@
+echo ".vs/
+bin/
+obj/" > .gitignore
