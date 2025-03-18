@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\VectorSorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46028-2380-453B-8344-E419B9CE2004}|VectorSorting\\VectorSorting.csproj|c:\\users\\lqye9\\onedrive\\desktop\\deakin\\2025.t1\\2025.t1sit221 - data structures and algorithms\\practical task 2.1 enabling sorting of generic data\\vectorsorting\\vectorsorting\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46028-2380-453B-8344-E419B9CE2004}|VectorSorting\\VectorSorting.csproj|solutionrelative:vectorsorting\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46028-2380-453B-8344-E419B9CE2004}|VectorSorting\\VectorSorting.csproj|c:\\users\\lqye9\\onedrive\\desktop\\deakin\\2025.t1\\2025.t1sit221 - data structures and algorithms\\practical task 2.1 enabling sorting of generic data\\vectorsorting\\vectorsorting\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46028-2380-453B-8344-E419B9CE2004}|VectorSorting\\VectorSorting.csproj|solutionrelative:vectorsorting\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lqye9\\AppData\\Local\\Temp\\29b63bb7-dd68-42a9-b956-ffd2f2a24ee7_2.1P-resources.zip.2.1P-resources.zip\\Tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\Vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\Vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\Tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\VectorSorting\\VectorSorting\\Vector.cs",
+              "RelativeDocumentMoniker": "VectorSorting\\Vector.cs",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\VectorSorting\\VectorSorting\\Vector.cs",
+              "RelativeToolTip": "VectorSorting\\Vector.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAiwLIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:05:15.343Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\Vector.cs",
+              "RelativeDocumentMoniker": "..\\..\\1.1p\\Vector.cs",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\Vector.cs",
+              "RelativeToolTip": "..\\..\\1.1p\\Vector.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:37:48.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\AppData\\Local\\Temp\\29b63bb7-dd68-42a9-b956-ffd2f2a24ee7_2.1P-resources.zip.2.1P-resources.zip\\Tester.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\29b63bb7-dd68-42a9-b956-ffd2f2a24ee7_2.1P-resources.zip.2.1P-resources.zip\\Tester.cs",
+              "ToolTip": "C:\\Users\\lqye9\\AppData\\Local\\Temp\\29b63bb7-dd68-42a9-b956-ffd2f2a24ee7_2.1P-resources.zip.2.1P-resources.zip\\Tester.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\29b63bb7-dd68-42a9-b956-ffd2f2a24ee7_2.1P-resources.zip.2.1P-resources.zip\\Tester.cs [Read Only]",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:16:16.2Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\Vector.cs",
+              "RelativeDocumentMoniker": "..\\..\\1.1p\\ConsoleApp1\\ConsoleApp1\\Vector.cs",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\Vector.cs",
+              "RelativeToolTip": "..\\..\\1.1p\\ConsoleApp1\\ConsoleApp1\\Vector.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:15:25.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\Tester.cs",
+              "RelativeDocumentMoniker": "..\\..\\1.1p\\ConsoleApp1\\ConsoleApp1\\Tester.cs",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\1.1p\\ConsoleApp1\\ConsoleApp1\\Tester.cs",
+              "RelativeToolTip": "..\\..\\1.1p\\ConsoleApp1\\ConsoleApp1\\Tester.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:15:18.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\VectorSorting\\VectorSorting\\Tester.cs",
+              "RelativeDocumentMoniker": "VectorSorting\\Tester.cs",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\VectorSorting\\VectorSorting\\Tester.cs",
+              "RelativeToolTip": "VectorSorting\\Tester.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAAAEoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:05:14.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

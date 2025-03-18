@@ -1,0 +1,4 @@
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\Practical Task 2.1 Enabling sorting of generic data\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\Practical Task 2.1 Enabling sorting of generic data\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\Practical Task 2.1 Enabling sorting of generic data\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\Practical Task 2.1 Enabling sorting of generic data\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache

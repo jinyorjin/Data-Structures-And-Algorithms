@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E820641D-3F43-4642-BFE3-48BFEE2BDDAC}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\lqye9\\onedrive\\desktop\\deakin\\2025.t1\\2025.t1sit221 - data structures and algorithms\\practical task 2.1 enabling sorting of generic data\\consoleapp2\\consoleapp2\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E820641D-3F43-4642-BFE3-48BFEE2BDDAC}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E820641D-3F43-4642-BFE3-48BFEE2BDDAC}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\lqye9\\onedrive\\desktop\\deakin\\2025.t1\\2025.t1sit221 - data structures and algorithms\\practical task 2.1 enabling sorting of generic data\\consoleapp2\\consoleapp2\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E820641D-3F43-4642-BFE3-48BFEE2BDDAC}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\ConsoleApp2\\ConsoleApp2\\Vector.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Vector.cs",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\ConsoleApp2\\ConsoleApp2\\Vector.cs",
+              "RelativeToolTip": "ConsoleApp2\\Vector.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAowIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:24:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\ConsoleApp2\\ConsoleApp2\\Tester.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Tester.cs",
+              "ToolTip": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\Practical Task 2.1 Enabling sorting of generic data\\ConsoleApp2\\ConsoleApp2\\Tester.cs",
+              "RelativeToolTip": "ConsoleApp2\\Tester.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAqwBQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:22:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
