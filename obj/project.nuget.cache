@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WoPDwwHH7ciyBMyMMlZ+/N46s4Z8qbS2Se50x6uAeOCd0oshu4YpiDp6o0JkNPNKXnt0wN2EEhuULIXysPrTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lqye9\\OneDrive\\Desktop\\deakin\\2025.T1\\2025.T1SIT221 - Data Structures And Algorithms\\3.1p Implementation of simple sorting algorithms\\3.1p\\3.1p\\Vector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqye9\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\lqye9\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\lqye9\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\lqye9\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

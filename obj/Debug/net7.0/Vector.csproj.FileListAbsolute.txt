@@ -1,0 +1,15 @@
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\Vector.AssemblyInfoInputs.cache
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\Vector.AssemblyInfo.cs
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\Vector.sourcelink.json
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\bin\Debug\net7.0\Vector.exe
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\bin\Debug\net7.0\Vector.deps.json
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\bin\Debug\net7.0\Vector.runtimeconfig.json
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\bin\Debug\net7.0\Vector.dll
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\bin\Debug\net7.0\Vector.pdb
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\Vector.dll
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\refint\Vector.dll
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\Vector.pdb
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\Vector.genruntimeconfig.cache
+C:\Users\lqye9\OneDrive\Desktop\deakin\2025.T1\2025.T1SIT221 - Data Structures And Algorithms\3.1p Implementation of simple sorting algorithms\3.1p\3.1p\obj\Debug\net7.0\ref\Vector.dll
